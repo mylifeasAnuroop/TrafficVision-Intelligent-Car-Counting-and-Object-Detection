@@ -22,7 +22,6 @@ The project utilizes a pre-trained YOLOv8 model to detect and track objects in a
 
 - **Libraries and Frameworks:**
   - [Ultralytics YOLO](https://github.com/ultralytics/yolov8): For object detection and tracking.
-  - [Supervision](https://github.com/robmarkcole/supervision): For annotation and visualization.
   - [OpenCV](https://opencv.org/): For video processing and handling.
 
 - **Environment:**
